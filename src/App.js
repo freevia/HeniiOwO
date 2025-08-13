@@ -115,7 +115,7 @@ const App = () => {
             animate={{ y: 0, opacity: 1 }}
             transition={{ delay: 0.6, duration: 0.6 }}
           >
-            Conéctate conmigo en todas partes.
+            Sigueme en todas mis redes sociales.
           </motion.p>
         </motion.div>
 
@@ -137,7 +137,7 @@ const App = () => {
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 1.5, duration: 0.5 }}
         >
-          "La vida es como una flor de cerezo, hermosa pero efímera. ¡Aprovecha cada conexión!"
+          "Nunca sabes cuando es la ultima vez que nos veremos... mejor sigueme ahora"
         </motion.p>
       </motion.div>
     </div>
