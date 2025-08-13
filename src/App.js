@@ -10,7 +10,7 @@ const randomPhrases = [
   "Le debo a coppel🗣️🔥",
   "DEJEN DE PREGUNTAR POR CUBO🗣️🔥",
   "LoL es vida🗣️🔥.",
-  "No les doy de comer a los del 🗣️🔥",
+  "No les doy de comer a los del sotano 🗣️🔥",
   "Soy 100% furra y 0% Fan de Bugdrock 🗣️🔥.",
   "No me gustan los Bugdrocks 🗣️🔥!",
   "Es java 🗣️🔥",
